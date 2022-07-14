@@ -1,0 +1,163 @@
+body{
+    background-color: rgba(213, 235, 235, 0.795);
+}
+    
+    
+.banner{
+    max-width: 100%;
+    text-align: right;
+    margin-right: 2%;
+    position: relative;
+    top: 93px;
+    left: 850px;
+    border: 50px solid rgba(0, 0, 255, 0.37);
+}
+header{
+    background-color: bisque;
+    color: rgba(21, 0, 128, 0.974);
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    font-style: oblique;
+}
+
+.line{
+    position: absolute;
+    top: 90px;
+    left: 910px;
+}
+.links{
+    font-size: 25px;
+}
+
+.student{
+    position: fixed;
+    top: 12px;
+    left: 1240px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px 20px;
+    z-index: 1;
+    color:rgba(9, 1, 52, 0.974);
+    background-color: rgb(91, 209, 91);
+    border-radius: 40px;
+}
+
+.signin{
+    position: fixed;
+    top: 12px;
+    left: 1340px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px 20px;
+    z-index: 1;
+    color:rgba(9, 1, 52, 0.974);
+    background-color: rgb(91, 209, 91);
+    border-radius: 40px;
+}
+    
+footer{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 1000px; 
+    max-width: 100%;
+    text-align: center;
+    z-index: 1;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.announcement{
+    position:absolute;
+    top: 90px;
+    left: 1196px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 0px;
+    padding-bottom: 688px;
+    padding-left: 0px;
+    padding-right: 130px;
+    border-radius: 30px;
+    color: darkorchid;
+}
+
+.target{
+    position: absolute;
+    top: 100px;
+    left: 5px;
+    right: 600px;
+    padding: 5px 5px;
+    color: rgb(83, 83, 83);
+    font-size: 25px;
+}
+
+.learn{
+    position: absolute;
+    top: 155px;
+    left: 5px;
+    padding: 5px 5px;
+    color: rgb(83, 83, 83);
+    font-size: 25px;
+}
+
+.test{
+    position: absolute;
+    top: 180px;
+    left: 5px;
+    right: 700px;
+    padding: 10px 5px;
+    color:blueviolet;
+    font-size: 30px;
+}
+
+.insta{
+    position: absolute;
+    bottom: 100px;
+    left: 620px;
+    z-index: 1;
+    width: 45px;
+}
+
+.fb{
+    position: absolute;
+    bottom: 100px;
+    left: 700px;
+    z-index: 1;
+    width: 45px;
+}
+
+.twit{
+    position: absolute;
+    bottom: 100px;
+    left: 780px;
+    z-index: 1;
+    width: 45px;
+}
+
+.li{
+    position: absolute;
+    bottom: 100px;
+    left: 860px;
+    z-index: 1;
+    width: 45px;
+}
+
+
+.back{
+    height: 250px;
+    width: 1500px;
+    position: absolute;
+    top: 838px;
+}
+
+.logo{
+    position:fixed;
+    top: 0px;
+    left: 10px;
+    width: 100px;
+    z-index: 2;
+}
