@@ -64,7 +64,7 @@ footer{
     position: absolute;
     left: 0px;
     right: 0px;
-    top: 1000px; 
+    top: 1030px; 
     max-width: 100%;
     text-align: center;
     z-index: 1;
@@ -116,7 +116,7 @@ footer{
 
 .insta{
     position: absolute;
-    bottom: 100px;
+    bottom: 190px;
     left: 620px;
     z-index: 1;
     width: 45px;
@@ -124,7 +124,7 @@ footer{
 
 .fb{
     position: absolute;
-    bottom: 100px;
+    bottom: 190px;
     left: 700px;
     z-index: 1;
     width: 45px;
@@ -132,7 +132,7 @@ footer{
 
 .twit{
     position: absolute;
-    bottom: 100px;
+    bottom: 190px;
     left: 780px;
     z-index: 1;
     width: 45px;
@@ -140,7 +140,7 @@ footer{
 
 .li{
     position: absolute;
-    bottom: 100px;
+    bottom: 190px;
     left: 860px;
     z-index: 1;
     width: 45px;
@@ -160,4 +160,31 @@ footer{
     left: 10px;
     width: 100px;
     z-index: 2;
+}
+
+.mail{
+    position: absolute;
+    top: 900px;
+    left: 600px;
+    font-size: 30px;
+}
+.mailid{
+    position: absolute;
+    top: 937px;
+    left: 710px;
+    font-size: 20px;
+}
+
+.mob{
+    position: absolute;
+    top: 950px;
+    left: 600px;
+    font-size: 30px;
+}
+
+.mobn{
+    position: absolute;
+    top: 986px;
+    left: 730px;
+    font-size: 20px;
 }
