@@ -188,3 +188,11 @@ footer{
     left: 730px;
     font-size: 20px;
 }
+
+.last{
+    position: relative;
+    top: 425px;
+    left: 450px;
+    font-size: 30px;
+    color: rgb(53, 53, 53);
+}
