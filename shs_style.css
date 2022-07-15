@@ -117,7 +117,7 @@ footer{
 .insta{
     position: absolute;
     bottom: 190px;
-    left: 620px;
+    left: 609px;
     z-index: 1;
     width: 45px;
 }
@@ -125,7 +125,7 @@ footer{
 .fb{
     position: absolute;
     bottom: 190px;
-    left: 700px;
+    left: 676px;
     z-index: 1;
     width: 45px;
 }
@@ -133,7 +133,7 @@ footer{
 .twit{
     position: absolute;
     bottom: 190px;
-    left: 780px;
+    left: 749px;
     z-index: 1;
     width: 45px;
 }
@@ -141,7 +141,7 @@ footer{
 .li{
     position: absolute;
     bottom: 190px;
-    left: 860px;
+    left: 819px;
     z-index: 1;
     width: 45px;
 }
