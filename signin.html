@@ -9,17 +9,17 @@
         <p>Enter the following details:</p>
     </header>
 
-    <main>
+    <form action="connect.php" method="post">
         <p class="name">NAME</p>
-        <input class="name1" type="text" placeholder="Enter your name here" >
+        <input class="name1" type="text" name="name" placeholder="Enter your name here" >
         <p class="CLASS">CLASS</p>
-        <input class="CLASS1" type="text" placeholder="Enter currently in which class you are studying">
+        <input class="CLASS1" type="text" name="class" placeholder="Enter currently in which class you are studying">
         <P class="dob">Date Of Birth</P>
         <input class="dob1" type="date" name="bday" required pattern="\d{4}-\d{2}-\d{2}">
         <p class="mn">Mobile Number</p>
-        <input class="mn1" type="text" placeholder="Enter Mobile No. here">
+        <input class="mn1" type="text" name="mbn" placeholder="Enter Mobile No. here">
         <button class="submit" onclick="window.location.href = '';">Submit</button>
-    </main>
+    </form>
 
 </body>
 </html>
