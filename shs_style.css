@@ -198,3 +198,16 @@ footer{
     color: rgb(53, 53, 53);
 }
   
+
+@media screen and (max-width: 600px){
+
+    header{
+        position: absolute;
+        font-size: 10px;
+    }
+    .logo{
+        position: absolute;
+        width: 70px;
+    }
+
+}
