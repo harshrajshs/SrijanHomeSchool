@@ -209,5 +209,26 @@ footer{
         position: absolute;
         width: 70px;
     }
+    .banner{
+        top: 65px;
+        left: 2px;
+    }
+    .line{
+        top: 70px;
+        left: 60px;
+    }
+    p{
+        position: relative;
 
+    }
+    .footer{
+        position: relative;
+        display: block;
+        left: 10px;
+    }
+    .back{
+        position: relative;
+        width: 480px;
+        height: 300px;
+    }
 }
