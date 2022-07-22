@@ -11,11 +11,11 @@ body{
     position: relative;
     top: 93px;
     left: 850px;
-    border: 50px solid rgba(0, 0, 255, 0.37);
+    border: 50px solid rgb(223, 223, 223);
 }
 header{
-    background-color: bisque;
-    color: rgba(21, 0, 128, 0.974);
+    background-color: gray;
+    color: rgb(42, 25, 223);
     padding: 10px;
     text-align: center;
     position: fixed;
@@ -44,7 +44,7 @@ header{
     margin: 10px 20px;
     z-index: 1;
     color:rgba(9, 1, 52, 0.974);
-    background-color: rgb(91, 209, 91);
+    background-color: white;
     border-radius: 40px;
 }
 
@@ -57,7 +57,7 @@ header{
     margin: 10px 20px;
     z-index: 1;
     color:rgba(9, 1, 52, 0.974);
-    background-color: rgb(91, 209, 91);
+    background-color: white;
     border-radius: 40px;
 }
     
