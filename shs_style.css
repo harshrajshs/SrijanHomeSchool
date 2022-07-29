@@ -14,8 +14,8 @@ body{
     border: 50px solid rgb(223, 223, 223);
 }
 header{
-    background-color: gray;
-    color: rgb(42, 25, 223);
+    background-color: rgb(122, 130, 177);
+    color: rgb(61, 61, 61);
     padding: 10px;
     text-align: center;
     position: fixed;
@@ -197,7 +197,21 @@ footer{
     font-size: 30px;
     color: rgb(53, 53, 53);
 }
-  
+
+.register{
+    position: absolute;
+    top: 110px;
+    left: 1200px;
+    font-size: 20px;
+    color: red;
+}
+
+.clickr{
+    position: absolute;
+    top: 128px;
+    left: 1355px;
+    font-size: 25px;
+}
 
 @media screen and (max-width: 600px){
 
